@@ -7,9 +7,9 @@ This project demonstrates how to set up and interact with an Elasticsearch insta
 ## 📋 Prerequisites
 
 Ensure you have the following installed:
-- [Docker](https://www.docker.com/)
-- [Conda](https://docs.conda.io/en/latest/)
-- [Python](https://www.python.org/) (optional but included with Conda)
+- [Docker](https://www.docker.com/) (Install Docker)
+- [Conda](https://docs.conda.io/en/latest/) (Install Conda)
+- [Python](https://www.python.org/) (Optional but included with Conda)
 
 ---
 
