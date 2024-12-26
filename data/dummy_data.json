@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Sample Title 1",
+    "text": "This is the first sample document text.",
+    "created_on": "2024-09-22"
+  },
+  {
+    "title": "Sample Title 2",
+    "text": "Here is another example of a document.",
+    "created_on": "2024-09-24"
+  },
+  {
+    "title": "Sample Title 3",
+    "text": "The content of the third document goes here.",
+    "created_on": "2024-09-24"
+  }
+]

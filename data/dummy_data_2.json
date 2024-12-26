@@ -1,0 +1,27 @@
+[
+    {
+        "message": "This is an important keyword search result.",
+        "age": 25,
+        "price": 100.0
+    },
+    {
+        "message": "Another search result with an important keyword.",
+        "age": 30,
+        "price": 150.0
+    },
+    {
+        "message": "Keyword match in this result as well.",
+        "age": 40,
+        "price": 200.0
+    },
+    {
+        "message": "Important keyword again in this document.",
+        "age": 35,
+        "price": 120.0
+    },
+    {
+        "message": "Final document with the important keyword.",
+        "age": 28,
+        "price": 180.0
+    }
+]

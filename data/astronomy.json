@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "title": "The Solar System",
+    "content": "The Solar System consists of the Sun and the objects that orbit it, including eight planets, their moons, dwarf planets, and countless small bodies like asteroids and comets."
+  },
+  {
+    "id": 2,
+    "title": "Black Holes",
+    "content": "A black hole is a region of space where the gravitational pull is so strong that nothing, not even light, can escape from it. They are formed when massive stars collapse under their own gravity."
+  },
+  {
+    "id": 3,
+    "title": "Galaxies",
+    "content": "Galaxies are vast systems that consist of stars, stellar remnants, interstellar gas, dust, and dark matter. The Milky Way is the galaxy that contains our Solar System."
+  },
+  {
+    "id": 4,
+    "title": "The Big Bang Theory",
+    "content": "The Big Bang Theory is the leading explanation about how the universe began. It suggests that the universe was once in an extremely hot and dense state and has been expanding ever since."
+  },
+  {
+    "id": 5,
+    "title": "Exoplanets",
+    "content": "Exoplanets, or extrasolar planets, are planets that exist outside our solar system. They vary greatly in size and composition and are often found using methods like the transit method and radial velocity."
+  },
+  {
+    "id": 6,
+    "title": "The Life Cycle of Stars",
+    "content": "Stars are born from clouds of gas and dust in space. They undergo a life cycle that includes stages such as main sequence, red giant, and, ultimately, either a supernova explosion or a gentle fade into a white dwarf."
+  },
+  {
+    "id": 7,
+    "title": "Astrobiology",
+    "content": "Astrobiology is the study of the origin, evolution, distribution, and future of life in the universe. It combines elements of biology, chemistry, and planetary science."
+  },
+  {
+    "id": 8,
+    "title": "Dark Matter",
+    "content": "Dark matter is a type of matter that does not emit light or energy. It cannot be observed directly but is believed to make up about 27% of the universe's total mass and energy."
+  },
+  {
+    "id": 9,
+    "title": "The Expanding Universe",
+    "content": "The universe has been expanding since the Big Bang. Observations of distant galaxies show that they are moving away from us, which supports the idea of an expanding universe."
+  },
+  {
+    "id": 10,
+    "title": "Space Exploration",
+    "content": "Space exploration involves the use of space technology to explore outer space. It includes missions to planets, moons, and other celestial bodies, aiming to discover more about the universe."
+  }
+]
